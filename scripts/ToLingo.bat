@@ -1,0 +1,1 @@
+java -jar C:\kmt\workspace\ToLingo\jars\ToLingo.jar
